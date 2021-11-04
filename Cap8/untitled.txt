@@ -1,0 +1,6 @@
+Região, 
+N,
+NE,
+CO,
+SE,
+S,
